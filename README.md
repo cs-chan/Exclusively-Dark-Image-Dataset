@@ -1,6 +1,6 @@
 # Exclusively Dark (ExDark) Image Dataset
 
-Released on May 30, 2018
+Released on May 29, 2018
 
 ## Description
 
@@ -13,11 +13,10 @@ In order to facilitate a new object detection and image enhancement research, we
 If you find this dataset useful for your research, please cite
 ```
 @article{Exdark,
-  author    = {Yuen Peng Loh and
-               Chee Seng Chan},
-  title     = {Getting to Know Low-light Images with The Exclusively Dark Dataset},
-  booktitle = {arXiv:1805.11227},
-  year      = {2018},
+  title={Getting to Know Low-light Images with The Exclusively Dark Dataset},
+  author={Loh, Yuen Peng and Chan, Chee Seng},
+  journal={arXiv preprint arXiv:1805.11227},
+  year={2018}
 }
 ```
 
