@@ -21,5 +21,13 @@ The images are kept in individual class folders following the image class labels
 
 Total : 7,363 images
 
+For the experiments in our paper that involves training, the data is split as follows:
+
+(a) Training - 3,000 images (250 images per class)
+(b) Validation - 1,800 images (150 images per class)
+(c) Testing - 2,563 images
+
+* See [annotation](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/blob/master/Groundtruth/imageclasslist.txt) for details.
+
 Note:
 1. The Total-Text dataset can be used only for non-commercial research purpose.
