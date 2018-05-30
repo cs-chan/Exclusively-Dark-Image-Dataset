@@ -24,7 +24,9 @@ Total : 7,363 images
 For the experiments in our paper that involves training, the data are split as follows:
 
 (a) Training - 3,000 images (250 images per class)
+
 (b) Validation - 1,800 images (150 images per class)
+
 (c) Testing - 2,563 images
 
 * See [annotation](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/blob/master/Groundtruth/imageclasslist.txt) for further details.
