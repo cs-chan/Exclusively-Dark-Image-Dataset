@@ -44,7 +44,7 @@ The format is:
 
     Low(1), Ambient(2), Object(3), Single(4), Weak(5), Strong(6), Screen(7), Window(8), Shadow(9), Twilight(10)
     
-    ![lltype](exdark1.png)
+![lltype](exdark1.png)
 
 (d) 4th column : Indoor/Outdoor 
     
