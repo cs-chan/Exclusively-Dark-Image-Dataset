@@ -12,7 +12,7 @@ The format in each '.txt' is:
 
 (a) First 16 characters : Annotation tool data (unused)
 
-(b) 1st column : Object class string
+(b) 1st column : Object class name
 
 (c) 2nd-5th column : Bounding box coordinates (l t w h)
     
