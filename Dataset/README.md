@@ -2,6 +2,7 @@
 
 The ExDark dataset can be downloaded at [this https URL](http://www.cs-chan.com/source/CVIU/ExDark.zip) (size = 1.5Gb).
 
+![exdark](Thumbnails.png)
 
 ## Dataset Information
 
