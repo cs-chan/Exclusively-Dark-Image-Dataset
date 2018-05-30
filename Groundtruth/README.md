@@ -2,7 +2,7 @@
 
 The groundtruth of ExDark dataset can be downloaded at [this https URL](http://www.cs-chan.com/source/CVIU/ExDark_Annno.zip) (4.2Mb).
 
-## ExDark_Annno.zip
+## Groundtruth Details
 
 There are 12 folders labeled with the object classes containing object bounding box annotations in '.txt' files labeled with the corresponding image name. 
 
