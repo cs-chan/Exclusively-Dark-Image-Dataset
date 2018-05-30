@@ -14,7 +14,7 @@ The format in each '.txt' is:
 
 (b) 1st column : Object class name
 
-(c) 2nd-5th column : Bounding box coordinates (l t w h)
+(c) 2nd-5th column : Bounding box coordinates [l t w h]
     
     l - pixel number from left of image
     t - pixel number from top of image
