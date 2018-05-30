@@ -6,6 +6,8 @@ The groundtruth of ExDark dataset can be downloaded at [this https URL](http://w
 
 There are 12 folders labeled with the object classes containing object bounding box annotations in '.txt' files labeled with the corresponding image name. 
 
+![bbox](annotations.png)
+
 The annotations are generated using Piotr's Computer Vision Matlab Toolbox ([PMT](https://pdollar.github.io/toolbox/))
 
 The format in each '.txt' is:
@@ -41,6 +43,8 @@ The format is:
 (c) 3rd column : Lighting type 
 
     Low(1), Ambient(2), Object(3), Single(4), Weak(5), Strong(6), Screen(7), Window(8), Shadow(9), Twilight(10)
+    
+    ![lltype](exdark1.png)
 
 (d) 4th column : Indoor/Outdoor 
     
