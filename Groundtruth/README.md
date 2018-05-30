@@ -8,9 +8,13 @@ The format is:
 
 1st column : Image name
 
-2nd column : Object class label (Bicycle(1), Boat(2), Bottle(3), Bus(4), Car(5), Cat(6), Chair(7), Cup(8), Dog(9), Motorbike(10), People(11), Table(12))
+2nd column : Object class label 
 
-3rd column : Lighting type (Low(1), Ambient(2), Object(3), Single(4), Weak(5), Strong(6), Screen(7), Window(8), Shadow(9), Twilight(10))
+(Bicycle(1), Boat(2), Bottle(3), Bus(4), Car(5), Cat(6), Chair(7), Cup(8), Dog(9), Motorbike(10), People(11), Table(12))
+
+3rd column : Lighting type 
+
+(Low(1), Ambient(2), Object(3), Single(4), Weak(5), Strong(6), Screen(7), Window(8), Shadow(9), Twilight(10))
 
 4th column : Indoor/Outdoor (Indoor(1), Outdoor(2))
 
