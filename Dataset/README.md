@@ -27,7 +27,7 @@ For the experiments in our paper that involves training, the data is split as fo
 (b) Validation - 1,800 images (150 images per class)
 (c) Testing - 2,563 images
 
-* See [annotation](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/blob/master/Groundtruth/imageclasslist.txt) for details.
+* See [annotation](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/blob/master/Groundtruth/imageclasslist.txt) for further details.
 
 Note:
 1. The Total-Text dataset can be used only for non-commercial research purpose.
