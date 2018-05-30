@@ -25,6 +25,6 @@ Suggestions and opinions of this dataset (both positive and negative) are greatl
 `lexloh2009 at hotmail.com`or `cs.chan at um.edu.my`.
 
 ## Lisense and Copyright
-The project is open source under BSD-3 license (see the ``` LICENSE ``` file). Codes can be used freely only for academic purpose.
+The project is open source under BSD-3 license (see the ``` LICENSE ``` file).
 
 Copyright 2018, Center of Image and Signal Processing, Faculty of Computer Science and Information Technology, University of Malaya.
