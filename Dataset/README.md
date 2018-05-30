@@ -21,6 +21,8 @@ The images are kept in individual class folders following the image class labels
 
 Total : 7,363 images
 
+![demo](exdarkimg.gif)
+
 For the experiments in our paper that involves training, the data are split as follows:
 
 (a) Training - 3,000 images (250 images per class)
