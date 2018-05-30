@@ -32,7 +32,7 @@ For the experiments in our paper that involves training, the data are split as f
 
 (c) Testing - 2,563 images
 
-* See [annotation](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/blob/master/Groundtruth/imageclasslist.txt) for further details.
+* See [annotation](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Groundtruth) for further details.
 
 Note:
 1. The Total-Text dataset can be used only for non-commercial research purpose.
