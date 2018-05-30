@@ -19,5 +19,7 @@ The images are kept in individual class folders following the image class labels
 11. People - 609 images
 12. Table - 505 images 
 
+Total : 7,363 images
+
 Note:
 1. The Total-Text dataset can be used only for non-commercial research purpose.
