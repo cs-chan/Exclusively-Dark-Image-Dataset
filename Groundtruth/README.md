@@ -26,7 +26,7 @@ The format in each '.txt' is:
 (e) For images with more than 1 object annotated, (b)-(d) is repeated
 
 
-## imageclasslist.txt
+## Experiment Settings
 
 The [imageclasslist.txt](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/blob/master/Groundtruth/imageclasslist.txt) contains the list of image class annotations and experimental splits used in our paper.
 
