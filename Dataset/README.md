@@ -35,4 +35,4 @@ For the experiments in our paper that involves training, the data are split as f
 * See [annotation](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Groundtruth) for further details.
 
 Note:
-1. The Total-Text dataset can be used only for non-commercial research purpose.
+1. The ExDark dataset can be used only for non-commercial research purpose.
