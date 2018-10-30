@@ -1,6 +1,6 @@
 # Exclusively Dark (ExDark) Image Dataset
 
-Oct. 31, 2018 - Accepted to be publish at CVIU.
+Oct. 31, 2018 - accepted for publication in the CVIU.
 
 Released on May 29, 2018
 
