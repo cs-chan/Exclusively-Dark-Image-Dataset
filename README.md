@@ -1,6 +1,6 @@
 # Exclusively Dark (ExDark) Image Dataset
 
-Oct. 31, 2018 - accepted for publication in the CVIU.
+Oct. 31, 2018 - accepted for publication in CVIU.
 
 Released on May 29, 2018
 
@@ -26,7 +26,7 @@ If you find this dataset useful for your research, please cite
 ```
 
 ## Feedback
-Suggestions and opinions of this dataset (both positive and negative) are greatly welcome. Please contact the authors by sending email to
+Suggestions and opinions on this dataset (both positive and negative) are greatly welcomed. Please contact the authors by sending an email to
 `lexloh2009 at hotmail.com`or `cs.chan at um.edu.my`.
 
 ## License and Copyright
