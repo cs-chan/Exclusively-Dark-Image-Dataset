@@ -32,4 +32,4 @@ Suggestions and opinions on this dataset (both positive and negative) are greatl
 ## License and Copyright
 The project is open source under BSD-3 license (see the ``` LICENSE ``` file).
 
-©2018, Center of Image and Signal Processing, Faculty of Computer Science and Information Technology, University of Malaya.
+&#169; 2018, Center of Image and Signal Processing, Faculty of Computer Science and Information Technology, University of Malaya.
