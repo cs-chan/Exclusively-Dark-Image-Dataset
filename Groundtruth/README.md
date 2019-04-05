@@ -1,6 +1,6 @@
 # Description 
 
-The groundtruth of ExDark dataset can be downloaded at [this https URL](http://www.cs-chan.com/source/CVIU/ExDark_Annno.zip) (4.2Mb).
+The groundtruth of ExDark dataset can be downloaded at [this https URL](https://drive.google.com/file/d/1goqzN0Eg7YqClZfP3cQ9QjENFrEhildz/view?usp=sharing) (4.2Mb).
 
 ## Groundtruth Details
 
