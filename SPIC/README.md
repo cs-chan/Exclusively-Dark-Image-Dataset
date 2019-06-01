@@ -8,7 +8,8 @@ This is the implementation of our SPIC2019 work with titled [Low-light Image Enh
 based upon the luminance distribution of real world low-light images to learn the relationship between features and pixels. 
 
 <img src="2015_00003.gif" height="150" > <img src="2015_02446.gif" height="150" > <img src="2015_06400.gif" height="150" >
-<img src="SPIC.gif" height="150" >
+
+<img src="SPIC.gif" height="250" >
 
 ## Citation
 
