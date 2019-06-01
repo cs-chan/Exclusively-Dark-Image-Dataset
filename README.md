@@ -12,7 +12,7 @@ In order to facilitate a new object detection and image enhancement research, we
 ![demo](Exdark.gif)
 
 ## Code 
-Now available, the source code for our latest paper on Low-light Image Enhancement using Gaussian Process for Features Retrieval [(SPIC 2019)](http://cs-chan.com/doc/SPIC2019.pdf). Please refer to the 
+Now available, the source code for our latest paper on Low-light Image Enhancement using Gaussian Process for Features Retrieval [(SPIC 2019)](http://cs-chan.com/doc/SPIC2019.pdf). Please refer to the [SPIC](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/SPIC) folder.
 
 <img src="SPIC/2015_00003.gif" height="150" > <img src="SPIC/2015_02446.gif" height="150" > <img src="SPIC/2015_06400.gif" height="150" >
 
@@ -28,16 +28,6 @@ If you find this dataset useful for your research, please cite
   pages={30-42},
   year={2019},
   doi={https://doi.org/10.1016/j.cviu.2018.10.010}
-}
-
-@article{loh2019low,
-  title={Low-light image enhancement using Gaussian Process for features retrieval},
-  author={Loh, Yuen Peng and Liang, Xuefeng and Chan, Chee Seng},
-  journal={Signal Processing: Image Communication},
-  volume={74},
-  pages={175--190},
-  year={2019},
-  publisher={Elsevier}
 }
 ```
 
