@@ -11,7 +11,7 @@ based upon the luminance distribution of real world low-light images to learn th
 
 ## Citation
 
-If you find this code useful for your research, please cite:
+Please cite the following paper if you use this repository in your reseach:
 ```
 @article{loh2019low,
   title={Low-light image enhancement using Gaussian Process for features retrieval},
