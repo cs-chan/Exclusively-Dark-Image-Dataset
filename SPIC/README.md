@@ -1,4 +1,4 @@
-# Low-light Image Enhancement using Gaussian Process for Features Retrieval
+# Low-light Image Enhancement
 
 Released on June 1, 2019
 
@@ -26,7 +26,7 @@ If you find this code useful for your research, please cite:
 
 ## Dependencies
 
-The codes are implemented in MATLAB using prior versions of the [MatConvNet](http://www.vlfeat.org/matconvnet/) and the [Gaussian Process for Machine Learning](http://www.gaussianprocess.org/gpml/code/matlab/doc/index.html) toolboxes.
+The codes are implemented in MATLAB using the prior version of [MatConvNet](http://www.vlfeat.org/matconvnet/) and the [Gaussian Process for Machine Learning](http://www.gaussianprocess.org/gpml/code/matlab/doc/index.html) toolboxes.
 
 ## Installation and Running
 
