@@ -1,5 +1,5 @@
 # Exclusively Dark (ExDark) Image Dataset
-Updated on June 02, 2019 (Code for SPIC is released)
+Updated on June 02, 2019 (Code for low-light image enhancement is released)
 
 Updated on Oct. 31, 2018 (Accepted for publication in CVIU)
 
@@ -12,7 +12,7 @@ In order to facilitate a new object detection and image enhancement research, we
 ![demo](Exdark.gif)
 
 ## Code 
-Now available, the source code for our latest paper on Low-light Image Enhancement using Gaussian Process for Features Retrieval [(SPIC 2019)](http://cs-chan.com/doc/SPIC2019.pdf). Please refer to the [SPIC](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/SPIC) folder.
+The source code for our work on low-light image enhancement is now available. Please refer to the [SPIC](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/SPIC) folder.
 
 <img src="SPIC/2015_00003.gif" height="150" > <img src="SPIC/2015_02446.gif" height="150" > <img src="SPIC/2015_06400.gif" height="150" >
 
