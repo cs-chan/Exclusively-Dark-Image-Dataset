@@ -10,6 +10,10 @@ In order to facilitate a new object detection and image enhancement research, we
 
 ![demo](Exdark.gif)
 
+* Now available, codes for low-light image enhancement using Gaussian Process for features retrieval. [(SPIC 2019)](http://cs-chan.com/doc/SPIC2019.pdf)
+
+<img src="llgp_enhance/2015_00003.gif" height="150" > <img src="llgp_enhance/2015_02446.gif" height="150" > <img src="llgp_enhance/2015_06400.gif" height="150" >
+
 
 ## Citation
 If you find this dataset useful for your research, please cite
@@ -23,6 +27,16 @@ If you find this dataset useful for your research, please cite
   year={2019},
   doi={https://doi.org/10.1016/j.cviu.2018.10.010}
 }
+
+@article{loh2019low,
+  title={Low-light image enhancement using Gaussian Process for features retrieval},
+  author={Loh, Yuen Peng and Liang, Xuefeng and Chan, Chee Seng},
+  journal={Signal Processing: Image Communication},
+  volume={74},
+  pages={175--190},
+  year={2019},
+  publisher={Elsevier}
+}
 ```
 
 ## Feedback
@@ -32,4 +46,4 @@ Suggestions and opinions on this dataset (both positive and negative) are greatl
 ## License and Copyright
 The project is open source under BSD-3 license (see the ``` LICENSE ``` file).
 
-&#169;2018 Center of Image and Signal Processing, Faculty of Computer Science and Information Technology, University of Malaya.
+&#169;2018-2019 Center of Image and Signal Processing, Faculty of Computer Science and Information Technology, University of Malaya.
