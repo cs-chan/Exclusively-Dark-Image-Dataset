@@ -7,9 +7,9 @@ Released on June 1, 2019
 This is the implementation of our SPIC2019 work with titled [Low-light Image Enhancement using Gaussian Process for Features Retrieval](http://cs-chan.com/doc/SPIC2019.pdf). In this work, we propose to model low-light enhancement as a set of localized functions using Gaussian Process that is trained at runtime using data from a simple Convolutional Neural Network (CNN) to provide the necessary feature information as reference. The CNN is in turn trained using large amount of synthetic data,
 based upon the luminance distribution of real world low-light images to learn the relationship between features and pixels. 
 
-<img src="2015_00003.gif" height="150" > <img src="2015_02446.gif" height="150" > <img src="2015_06400.gif" height="150" >
+<img src="SPIC.gif" height="200" > <img src="2015_00003.gif" height="150" > <img src="2015_02446.gif" height="150" > <img src="2015_06400.gif" height="150" >
 
-<img src="SPIC.gif" height="250" >
+
 
 ## Citation
 
