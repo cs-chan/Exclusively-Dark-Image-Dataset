@@ -11,7 +11,7 @@ In order to facilitate a new object detection and image enhancement research, we
 
 ![demo](Exdark.gif)
 
-## Code 
+## Source Code 
 The source code for our work on low-light image enhancement is now available. Please refer to the [SPIC](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/SPIC) folder.
 
 <img src="SPIC/2015_00003.gif" height="150" > <img src="SPIC/2015_02446.gif" height="150" > <img src="SPIC/2015_06400.gif" height="150" >
