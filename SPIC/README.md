@@ -53,3 +53,5 @@ Suggestions and opinions of this work (both positive and negative) are greatly w
 
 ## License
 The project is open sourced under BSD-3 license (see the ``` LICENSE ``` file). Codes can be used freely only for academic purposes.
+
+For commercial purpose usage, please contact Dr. Chee Seng Chan at `cs.chan at um.edu.my`
