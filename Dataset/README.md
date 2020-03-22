@@ -36,3 +36,5 @@ For the experiments in our paper that involves training, the data are split as f
 
 Note:
 1. The ExDark dataset can be used only for non-commercial research purpose.
+
+2. For commercial purpose usage, please contact Dr. Chee Seng Chan at `cs.chan at um.edu.my`
