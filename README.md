@@ -42,4 +42,4 @@ The project is open source under BSD-3 license (see the ``` LICENSE ``` file).
 
 For commercial purpose usage, please contact Dr. Chee Seng Chan at `cs.chan at um.edu.my`
 
-&#169;2018-2022 Center of Image and Signal Processing, Faculty of Computer Science and Information Technology, University of Malaya.
+&#169;2018-2022 Center of Image and Signal Processing, Faculty of Computer Science and Information Technology, Universiti Malaya.
