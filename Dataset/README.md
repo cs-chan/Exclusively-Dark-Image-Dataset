@@ -1,6 +1,6 @@
 ## Description
 
-The ExDark dataset can be downloaded at [this https URL](sftp://cschan@web.fsktm.um.edu.my/home/cschan/public_html/dataset/CVIU/ExDark.zip) (size = 1.5Gb).
+The ExDark dataset can be downloaded at [this https URL](https://web.fsktm.um.edu.my/~cschan/dataset/CVIU/ExDark.zip) (size = 1.5Gb).
 
 ![exdark](Thumbnails.png)
 
