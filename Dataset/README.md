@@ -1,6 +1,6 @@
 ## Description
 
-The ExDark dataset can be downloaded at [this https URL](https://mmuedumy-my.sharepoint.com/:u:/g/personal/mu180926_office_mmu_edu_my/EZQ_mdJ4uzdIp-RTOqwwVZYBwDJz35cQu0rBt_hRO55IoQ?e=cpyrz1) (size = 1.5Gb).
+The ExDark dataset can be downloaded at [this https URL](https://drive.google.com/file/d/1BHmPgu8EsHoFDDkMGLVoXIlCth2dW6Yx/view?usp=sharing) (size = 1.5Gb).
 
 ![exdark](Thumbnails.png)
 
