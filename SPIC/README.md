@@ -21,13 +21,13 @@ based upon the luminance distribution of real world low-light images to learn th
 Please cite the following paper if you use this repository in your reseach:
 ```bibtex
 @article{loh2019low,
-  title={Low-light image enhancement using Gaussian Process for features retrieval},
-  author={Loh, Yuen Peng and Liang, Xuefeng and Chan, Chee Seng},
-  journal={Signal Processing: Image Communication},
-  volume={74},
-  pages={175--190},
-  year={2019},
-  publisher={Elsevier}
+  title = {Low-light image enhancement using Gaussian Process for features retrieval},
+  author = {Loh, Yuen Peng and Liang, Xuefeng and Chan, Chee Seng},
+  journal = {Signal Processing: Image Communication},
+  volume = {74},
+  pages = {175--190},
+  year = {2019},
+  publisher = {Elsevier}
 }
 ```
 
