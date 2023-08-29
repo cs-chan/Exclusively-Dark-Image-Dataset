@@ -23,15 +23,15 @@ The source code for our work on low-light image enhancement is now available. Pl
 
 ## Citation
 If you find this dataset useful for your research, please cite
-```
+```bibtex
 @article{Exdark,
-  title={Getting to Know Low-light Images with The Exclusively Dark Dataset},
-  author={Loh, Yuen Peng and Chan, Chee Seng},
-  journal={Computer Vision and Image Understanding},
-  volume={178},
-  pages={30-42},
-  year={2019},
-  doi={https://doi.org/10.1016/j.cviu.2018.10.010}
+  title = {Getting to Know Low-light Images with The Exclusively Dark Dataset},
+  author = {Loh, Yuen Peng and Chan, Chee Seng},
+  journal = {Computer Vision and Image Understanding},
+  volume = {178},
+  pages = {30-42},
+  year = {2019},
+  doi = {https://doi.org/10.1016/j.cviu.2018.10.010}
 }
 ```
 
