@@ -37,7 +37,7 @@ If you find this dataset useful for your research, please cite
 
 ## Feedback
 Suggestions and opinions on this dataset (both positive and negative) are greatly welcomed. Please contact the authors by sending an email to
-`lexloh2009 at hotmail.com`or `cs.chan at um.edu.my`.
+`adrianasjw at hotmail.com` or `cs.chan at um.edu.my`.
 
 ## License and Copyright
 The project is open source under BSD-3 license (see the ``` LICENSE ``` file). 
