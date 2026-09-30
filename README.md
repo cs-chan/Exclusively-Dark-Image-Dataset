@@ -42,7 +42,6 @@ Suggestions and opinions on this dataset (both positive and negative) are greatl
 `lexloh2009 at hotmail.com` or `cs.chan at um.edu.my`.
 
 ## License, Dataset Terms and Rights
-
 ExDark contains different categories of material.
 Different terms apply to different components:
 
@@ -52,8 +51,7 @@ Different terms apply to different components:
 | ExDark annotations, bounding boxes, class labels, metadata, dataset splits and related project-created documentation | See `DATASET_TERMS.md`. |
 | Underlying photographs, movie frames, images originating from third-party websites or third-party datasets, and other third-party material | Not licensed under the ExDark Dataset Research Use Terms unless expressly stated. Separate third-party rights may apply. |
 
-### Academic research use
-
+## Academic research use
 The ExDark Dataset Materials, as defined in
 `DATASET_TERMS.md`, may be used for non-commercial academic
 research, education, benchmarking and scholarly publication
@@ -61,8 +59,7 @@ subject to those terms.
 
 Where a project is carried out by, with, or under the sponsorship of a for-profit entity, written confirmation from the Licensor is required before relying on the academic-use permission.
 
-### Commercial use
-
+## Commercial use
 Commercial use of ExDark Dataset Materials controlled by the Licensor requires prior written permission.
 
 Nothing in these terms grants commercial or other rights in underlying third-party images or other third-party materials.
@@ -70,8 +67,7 @@ Nothing in these terms grants commercial or other rights in underlying third-par
 For permission requests, contact:
 Dr. Chee Seng Chan at `cs.chan at um.edu.my`.
 
-### Rights notice
-
+## Rights notice
 Permissions are granted only to the extent that the Licensor owns or is authorised to grant the relevant rights.
 See `RIGHTS_NOTICE.md`.
 
