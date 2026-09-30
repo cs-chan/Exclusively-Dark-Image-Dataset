@@ -1,6 +1,8 @@
 # Exclusively Dark (ExDark) Image Dataset (Official Site)
 [ArXiv](http://cs-chan.com/doc/cviu.pdf)
 
+Updated on Sept 30, 2026 (Updated the README.md. Added DATASET_TERMS.md, RIGHTS_NOTICE.md & THIRD_PARTY_NOTICES.md)
+
 Updated on Sept 02, 2022 (Updated the dataset link)
 
 Updated on June 02, 2019 (Code for low-light image enhancement is released)
