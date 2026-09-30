@@ -34,7 +34,12 @@ For the experiments in our paper that involves training, the data are split as f
 
 * See [annotation](https://github.com/cs-chan/Exclusively-Dark-Image-Dataset/tree/master/Groundtruth) for further details.
 
-Note:
-1. The ExDark dataset can be used only for non-commercial research purpose.
+## Usage Terms
 
-2. For commercial purpose usage, please contact Dr. Chee Seng Chan at `cs.chan at um.edu.my`
+Use of ExDark annotations, bounding boxes, class labels, metadata, dataset splits and related project-created materials is subject to the ExDark Dataset Research Use Terms in [`../DATASET_TERMS.md`](../DATASET_TERMS.md).
+
+The underlying images may be subject to separate third-party copyright, privacy, publicity, trademark or other rights. The ExDark Dataset Research Use Terms do not grant rights in third-party images except to the extent expressly stated.
+
+For company-affiliated academic research or commercial-use enquiries concerning rights controlled by the Licensor, please contact Dr. Chee Seng Chan at `cs.chan at um.edu.my`.
+
+See also [`../RIGHTS_NOTICE.md`](../RIGHTS_NOTICE.md).
