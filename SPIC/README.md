@@ -52,6 +52,13 @@ Suggestions and opinions of this work (both positive and negative) are greatly w
 `lexloh2009 at hotmail.com`or `cs.chan at um.edu.my`.
 
 ## License
-The project is open sourced under BSD-3 license (see the ``` LICENSE ``` file). Codes can be used freely only for academic purposes.
 
-For commercial purpose usage, please contact Dr. Chee Seng Chan at `cs.chan at um.edu.my`
+The SPIC folder contains original project code and bundled or referenced third-party software components.
+
+The licence applicable to each component is determined by the licence file and notices accompanying that component. Third-party software retains its original licence.
+
+The current `SPIC/LICENSE` file contains GNU GPL v3 terms. Accordingly, users should not rely on an inconsistent
+“BSD-3-Clause” or “academic use only” statement in this README.
+
+For licensing questions concerning original SPIC code owned by the authors, please contact Dr. Chee Seng Chan at
+`cs.chan at um.edu.my`.
